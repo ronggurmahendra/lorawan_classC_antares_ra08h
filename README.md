@@ -1,0 +1,1 @@
+# lorawan_classC_antares_ra08h
